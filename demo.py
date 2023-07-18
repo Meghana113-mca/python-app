@@ -7,3 +7,7 @@ print(lists)
 
 lists[-2]=200
 print(lists)
+
+
+lists[-3]=400
+print(lists)
