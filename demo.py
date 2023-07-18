@@ -11,3 +11,5 @@ print(lists)
 
 lists[-3]=400
 print(lists)
+
+print(type(lists))
