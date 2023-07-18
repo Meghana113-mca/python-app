@@ -4,3 +4,6 @@ print(lists)
 
 lists[2]=300
 print(lists)
+
+lists[-2]=200
+print(lists)
